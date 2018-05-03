@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "CFTK",
+    "description": "Official app for the Carolina For The Kids Foundation.",
+    "slug": "cftk-app",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "splash": {
+      "image": "./assets/images/logo.png"
+    },
+    "ios": {
+      "bundleIdentifier": "com.cftk.carolinaftk",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.cftk.carolinaftk",
+      "versionCode": 2,
+      "icon": "./assets/images/transparent_logo.png",
+      "permissions": ["CAMERA"]
+    }
+  }
+}
