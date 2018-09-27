@@ -202,15 +202,6 @@ const styles = StyleSheet.create({
     padding: 15,
     flexDirection: 'row'
   },
-  // displayMessage: {
-  //   position: 'absolute',
-  //   top: Dimensions.get('window').height,
-  //   left: 0,
-  //   right: 0,
-  //   backgroundColor: 'rgba(0,0,0,0.5)',
-  //   padding: 15,
-  //   flexDirection: 'row'
-  // },
   displayMessage: {
     position: 'absolute',
     backgroundColor: 'rgba(0,0,0,0.5)',
